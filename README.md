@@ -1,1 +1,1 @@
-# VaR-Calculation-in-shares-portfolios-
+Εργασία στα πλαίσια του μεταπτυχιακού μαθήματος "Κίνδυνοι αγοράς και λειτουργικοί κίνδυνοι". Ζητούμενο ο υπολογισμός του Value at Risk με τρεις διαφορετικές μεθόδους (variance-covariance, historical simulation και EWMA) σε συγκεκριμένο χαρτοφυλάκιο μετοχών.  
